@@ -14,8 +14,8 @@ Built as part of the [Android Basics with Compose](https://developer.android.com
 ## 📸 Preview:
 
 - Light Mode 💡 <br> 
-![TaskAlert](screenshots/assets/assets1.jpeg) <br>
+![TaskAlert](assets/assets1.jpeg) <br>
 - Dark Mode 🌙 <br>
-![TaskAlert](screenshots/assets/assets2.jpeg) <br>
+![TaskAlert](assets/assets2.jpeg) <br>
 
 
