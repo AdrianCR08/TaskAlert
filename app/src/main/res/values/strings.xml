@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskAlert</string>
+    <string name="message">Nice Work!</string>
+    <string name="summary">All tasks complete</string>
+</resources>
